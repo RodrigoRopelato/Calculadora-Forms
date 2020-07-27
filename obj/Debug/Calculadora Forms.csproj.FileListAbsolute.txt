@@ -1,0 +1,10 @@
+C:\Users\rodri\Desktop\Senai\Logica e programação\Projetos\Calculadora Forms\bin\Debug\Calculadora Forms.exe.config
+C:\Users\rodri\Desktop\Senai\Logica e programação\Projetos\Calculadora Forms\bin\Debug\Calculadora Forms.exe
+C:\Users\rodri\Desktop\Senai\Logica e programação\Projetos\Calculadora Forms\bin\Debug\Calculadora Forms.pdb
+C:\Users\rodri\Desktop\Senai\Logica e programação\Projetos\Calculadora Forms\obj\Debug\Calculadora Forms.csprojAssemblyReference.cache
+C:\Users\rodri\Desktop\Senai\Logica e programação\Projetos\Calculadora Forms\obj\Debug\Calculadora_Forms.Form1.resources
+C:\Users\rodri\Desktop\Senai\Logica e programação\Projetos\Calculadora Forms\obj\Debug\Calculadora_Forms.Properties.Resources.resources
+C:\Users\rodri\Desktop\Senai\Logica e programação\Projetos\Calculadora Forms\obj\Debug\Calculadora Forms.csproj.GenerateResource.cache
+C:\Users\rodri\Desktop\Senai\Logica e programação\Projetos\Calculadora Forms\obj\Debug\Calculadora Forms.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\Senai\Logica e programação\Projetos\Calculadora Forms\obj\Debug\Calculadora Forms.exe
+C:\Users\rodri\Desktop\Senai\Logica e programação\Projetos\Calculadora Forms\obj\Debug\Calculadora Forms.pdb
